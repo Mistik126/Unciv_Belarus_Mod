@@ -1,8 +1,0 @@
-{
-    "title": "belarus",
-    "description": "Добавляет Беларусь на карту", 
-    "version": "1",
-    "civs": [
-        {"name": "belarus", "filename": "belarus"}
-    ]
-}
