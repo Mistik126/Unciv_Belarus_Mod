@@ -1,6 +1,6 @@
 
 	{
-		"name": "belarus",
+		"name": "Belarus",
 		"leaderName": "Лукашенко",
 		"adjective": ["Беларусск."],
 		"startBias": ["Flood plains"],
@@ -35,4 +35,5 @@
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
 			"Aratta","Kutu","Der"]
+
 	}
