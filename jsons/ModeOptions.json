@@ -4,10 +4,11 @@
     "description": "Adds Belarus civilization",
     "version": "1.0",
     "modTypes": ["Civilizations"],
-    "civilizations": [
+    "civs": [
         {
             "name": "Belarus",
             "filename": "Nations/Belarus/Belarus"
         }
     ]
+
 }
