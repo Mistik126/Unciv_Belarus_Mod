@@ -1,7 +1,22 @@
 {
-    "name": "Belarus",
-    "leaderName": "Lukashenko",
-    "adjective": ["Belarusian"],
-    "startBias": ["Plains"],
-    "preferredVictoryType": "Scientific"
+		"name": "Belarus",
+		"leaderName": "Lukashenko",
+		"adjective": ["Belarussian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Diplomatic",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome to Canada. As their first Prime Minister, I give you my warmest welcome. Would you mind playing a game of ice hockey?",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "From Sea to Sea",
+		"uniques": ["[+1 Culture] from every [Tundra]"],
+		"cities": ["Bobryisk","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton","Kitchener","Laval","London","Victoria","Halifax","Oshawa","Windsor","Saskatoon","St. Catharines","Regina","St. John's","Kelowna"]
 }
