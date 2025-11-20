@@ -2,13 +2,13 @@
 	{
 		"name" : "Kaesong Industrial Region",
 		"replaces" : "Factory",
-		"uniqueTo" : "North Korea",
+		"uniqueTo" : "Belarus",
 		"maintenance" : 5,
-		"production" : 10,
+		"production" : 16,
 		"specialistSlots": {"Engineer": 5},
 		"cost" : 400,
 		"hurryCostModifier" : 1000,
 		"requiredTech" : "Industrialization",
-		"uniques" : ["[-1 Happiness]"]
+		"uniques" : ["[+1 Happiness]"]
 	}
 ]
