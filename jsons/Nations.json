@@ -2,7 +2,7 @@
 	{
 		"name" : "Belarus",
 		"leaderName" : "Lukashenko",
-		"adjective" : ["North Korean"],
+		"adjective" : ["Belarussian"],
 		"startBias" : ["Coast"],
 		"preferredVictoryType" : "Domination",
 		
@@ -26,10 +26,10 @@
 		"afterPeace" : "It's the blessing of a great comrade!",
 		"tradeRequest" : "I have a good suggestion, comrade.",
 
-		"outerColor" : [2, 79, 162],
-		"innerColor" : [237, 28, 39],
-		"uniqueName" : "Great Propaganda",
-		"uniques" : ["[+1 Happiness] [in capital] <after discovering [Writing]>", "[+2 Happiness] [in capital] <after discovering [Drama and Poetry]>", "[+1 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[-1 Happiness] [in capital] <after discovering [Telecommunications]>"],
-		"cities" : ["Pyongyang","Kaeseong","Hamhung","Nampo","Chongjin","Wonsan","Raseon","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
+		"outerColor" : [0, 94, 184],
+		"innerColor" : [217, 0, 0],
+		"uniqueName" : "Great Potato Farm",
+		"uniques" : ["[+3 Happiness] [in capital] <after discovering [Writing]>", "[+2 Happiness] [in capital] <after discovering [Drama and Poetry]>", "[+1 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
+		"cities" : ["Minsk","Bobryisk","PotatoField","JopaEja","Chongjin","Wonsan","Raseon","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
 	}
 ]
