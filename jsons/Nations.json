@@ -1,7 +1,7 @@
 [
 	{
-		"name" : "North Korea",
-		"leaderName" : "Kim Jong Un",
+		"name" : "Belarus",
+		"leaderName" : "Lukashenko",
 		"adjective" : ["North Korean"],
 		"startBias" : ["Coast"],
 		"preferredVictoryType" : "Domination",
