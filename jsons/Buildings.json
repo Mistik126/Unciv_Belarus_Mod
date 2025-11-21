@@ -7,7 +7,7 @@
 		"production" : 16,
 		"specialistSlots": {"Engineer": 5},
 		"cost" : 360,
-		"hurryCostModifier" : 1000,
+		"hurryCostModifier" : 25,
 		"requiredTech" : "Industrialization",
 		"uniques" : ["[+1 Happiness]"]
 	}
