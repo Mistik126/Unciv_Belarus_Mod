@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Belarussian Rocket",
+		"name": "Katusha",
 		"unitType": "Siege",
 		"uniqueTo": "Belarus",
 		"replaces": "Artillery",
-		"movement": 2,
-		"strength": 27,
-		"rangedStrength": 30,
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 32,
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
