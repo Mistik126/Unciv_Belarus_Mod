@@ -5,6 +5,7 @@
 		"uniqueTo" : "Belarus",
 		"maintenance" : 5,
 		"production" : 16,
+		"percentStatBonus": {"production": 25},
 		"specialistSlots": {"Engineer": 5},
 		"cost" : 360,
 		"hurryCostModifier" : 25,
