@@ -12,5 +12,19 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Rocketry",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "[2] additional attacks per turn <when fighting in [Friendly Land] tiles>","Must set up to ranged attack"]
+	},
+	
+	{
+		"name": "Timurdin Horse",
+		"unitType": "Mounted",
+		"uniqueTo": "Uzbekistan",
+		"replaces": "Horseman",
+		"movement": 7,
+		"strength": 30,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalru",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "[2] additional attacks per turn <when fighting in [Friendly Land] tiles>","Must set up to ranged attack"]
 	}
 ]
